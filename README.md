@@ -8,7 +8,7 @@ F-Net, and Fr-Net. It progressively refines the subtle facial
 details such as small crow’s feet and wrinkles. We introduce
 three types of data to train DF2Net with different training
 strategies. More details can be seen in our paper.
-![framework](https://github.com/xiaoxingzeng/DF2Net_/tree/master/img/framework.png)  
+![framework](https://github.com/xiaoxingzeng/DF2Net/tree/master/img/framework.png)  
 Xiaoxing Zeng, Xiaojiang Peng, Yu Qiao. DF2Net: A Dense-Fine-Finer Network for Detailed 3D Face Reconstruction. ICCV, 2019    
   
   Dependencies
