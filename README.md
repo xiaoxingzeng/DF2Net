@@ -25,8 +25,7 @@ Xiaoxing Zeng, Xiaojiang Peng, Yu Qiao. DF2Net: A Dense-Fine-Finer Network for D
   We crop the raw face image with bounding box of face detection, you can change to other more advanced detector.  
   #### Face Mask Generate  
   We also masking the cropped face with 68 face landmarks detector.  
-  #### DownLoad the pretrained model[google drive](https://drive.google.com/open?id=13rNnb__OrD7Zv8Mx3bdwjWr_ELmhUzeI "悬停显示") [baidu drive access code：f5tb](https://pan.baidu.com/s/1-CuHbM6nyWNVV_PanRRfLQ "悬停显示") 	 and copy it to ./model. DownLoad the shape_predictor_68_face_landmarks.dat [google drive](https://drive.google.com/open?id=1SeIs0lG1XAg1JN6bGjiXUgMONsTuTpxy "悬停显示")   
-  [biadu drive access code :yi4u ](https://pan.baidu.com/s/1UaozUXwF1_-t7tOqDwEnbQ "悬停显示")
+  #### DownLoad the pretrained model[google drive](https://drive.google.com/open?id=13rNnb__OrD7Zv8Mx3bdwjWr_ELmhUzeI "悬停显示") [baidu drive access code：f5tb](https://pan.baidu.com/s/1-CuHbM6nyWNVV_PanRRfLQ "悬停显示") 	 and copy it to ./model. DownLoad the shape_predictor_68_face_landmarks.dat [google drive](https://drive.google.com/open?id=1SeIs0lG1XAg1JN6bGjiXUgMONsTuTpxy "悬停显示") [biadu drive access code :yi4u ](https://pan.baidu.com/s/1UaozUXwF1_-t7tOqDwEnbQ "悬停显示")
   #### RUN  
    `python demo.py`  
   #### Show the result with Matlab  
